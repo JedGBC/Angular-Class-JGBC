@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Tarea 1
+Jaime De la Fuente
+•
+30 nov 2022 (Última modificación: 30 nov 2022)
+- Cree un proyecto angular
+
+- Cree un componente A
+
+- Cree otro componente B y llámelo desde el otro componente utilizando el selector
+
+- Cree un servicio que le proporcione una lista de objetos
+
+- Consuma ese servicio desde el componente B
+
+- Suba su código a Github antes del Lunes 5 de diciembre 19:00 hrs, enviar por correo el link del repositorio 
